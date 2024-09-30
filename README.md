@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hello! Welcome to my GitHub profile</h1>
+<h1 align="center">Hello Darsh! Welcome to my GitHub profile</h1>
 
 ###
 
